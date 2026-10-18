@@ -1,0 +1,8 @@
+# Only the reviewed case-study documents may be tracked.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/ARCHITECTURE.md
+!/docs/IMPLEMENTATION.md
